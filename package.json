@@ -1,0 +1,23 @@
+{
+  "name": "blade2",
+  "version": "1.0.0",
+  "description": "BLADE2 - A console utility developed in NodeJS using Visual Studio Code on macOS.  The initial goal of the project is to use SQLClient and Handlebars.Net libraries to construct generated program source code for data access.  Ultimately Blade2 will be able to generate any type of source code the template references.  Blade2 is a developer tool that shapes source code, saves time, and reduces bugs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPigford/blade2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPigford/blade2/issues"
+  },
+  "homepage": "https://github.com/DanielPigford/blade2#readme",
+  "dependencies": {
+    "handlebars": "^4.0.12"
+  }
+}
